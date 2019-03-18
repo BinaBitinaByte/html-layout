@@ -1,0 +1,29 @@
+.nav{
+    background: lightblue;
+    height: 10vh;
+    width: vw;
+}
+
+.left{
+    float: left;
+    margin: 3vh;
+}
+
+.main{
+    height: 90vh;
+    width: 100 vw;
+    background: black;
+    padding: 10vh 25vw px;
+}
+
+.container{
+    height: 50 vh;
+    width: 50vw;
+    background: white;
+}
+
+.container h3{
+    border-bottom: 3px 
+}
+
+
