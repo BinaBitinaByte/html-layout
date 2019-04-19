@@ -1,0 +1,61 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.firstbox{
+    border: 7px solid black;
+    padding:20px;
+    box-sizing: border-box;
+    width:100%;
+}
+
+.shapeone{
+    height:125px;
+    width: 25px;
+    background-color: violet;
+    display: inline-block;
+}
+
+.shapetwo{
+    height:150px;
+    width: 200px;
+    background-color: green;
+    display: inline-block;
+    margin: 50px;
+}
+
+.shapethree{
+    background-color: lightblue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.secondbox{
+    width:100%;
+    border: 5px dotted black;
+    padding: 25px;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+.shadow{
+    width:100%;
+    height: 100px;
+    background-color: white;
+    box-shadow: 10px 5px 5px gray;
+}
+.thirdbox{
+    background-color: white;
+    padding: 50px;
+    border: 3px solid gray;
+    box-sizing: border-box;
+    margin: 50px auto;
+    width:50%;
+    box-shadow: 10px 5px 5px red;
+}
+.thirdbox h1{
+    width: 100%;
+    color:blue;
+    text-align: center;
+}

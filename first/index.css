@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(250, 235, 215, 0.685);
+}
+
+.main{
+  background-color: white;
+  margin: auto;
+  width: 50%;
+  height: 75vh;
+}
+
+.topbar{
+    height: 20vh;
+    width: 100%;
+    background-color: darkgray;
+}
+
+.footer{
+  background-color: #7B6055;
+  height: 10vh;
+  width: 50%;
+  margin: auto;
+}
